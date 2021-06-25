@@ -10,6 +10,7 @@ setup(
     version='0.0.1',
     description='Python hooks for Oracle Eloqua API',
     long_description=readme,
+    packages=find_packages(),
     author='Nick Gryga',
     author_email='nickolasgryga@gmail.com'
 )

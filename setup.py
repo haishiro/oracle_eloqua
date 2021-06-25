@@ -7,7 +7,7 @@ with open('README.md') as f:
 
 setup(
     name='oracle_eloqua',
-    version='0.0.1',
+    version='0.0.2',
     description='Python hooks for Oracle Eloqua API',
     long_description=readme,
     packages=find_packages(),
